@@ -1,4 +1,5 @@
 GIT vs GIT HUB:
 GIT - Version control system
 GIT HUB - Owned by MS and provides web-based Hosting services to the users regarding GIT.
-now we have created a branch version and editing the file - this will not be reflecting in main branch
+this update is made in main branch
+
